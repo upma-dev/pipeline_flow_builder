@@ -1,0 +1,6 @@
+{
+  "name": "Pipeline Flow Builder",
+  "description": "A visual pipeline builder for creating AI and data processing workflows with custom nodes, text variable detection, and real-time DAG validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
