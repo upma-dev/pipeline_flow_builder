@@ -4,6 +4,10 @@ A highly interactive, full-stack visual workspace built with **React Flow**, **T
 
 This repository represents a senior-level implementation matching all requirements of the VectorShift Frontend Technical Assessment.
 
+## 📸 App Preview
+
+![Pipeline Flow Builder Screenshot](./assets/app-screenshot.png)
+
 ---
 
 ## 🏛️ Project Architecture
@@ -143,12 +147,11 @@ The frontend application can be compiled and booted locally on your machine.
 
 ### 1. Unified Canvas Overview
 *A dark, high-contrast digital workspace grid sporting cohesive node headers, smooth wires, and an intuitive custom element drag-and-drop toolbox panel on the left.*
-![Canvas Overview](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80)
+
 
 ### 2. Auto-Resizing & Variable Connectors
 *The dynamic text node expanding horizontally and vertically in real-time as users enter prompt variables, generating corresponding green target pins on the fly.*
-![Text Auto-Resize and Variables](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80)
 
 ### 3. Topological Evaluation Modal (DAG Check)
 *Interactive validation feedback notifying developers if the workflow is a valid acyclic chain, or flashing warnings when loop cycles are detected.*
-![DAG Validation Successful Report](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=1200&q=80)
+
